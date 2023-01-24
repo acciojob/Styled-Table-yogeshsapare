@@ -1,1 +1,16 @@
 /* your code */
+table{
+	border:1px solid gray;
+	border-radius:10px;
+}
+thead{
+	background:#2596be;
+	color:white;
+	padding:10px;
+}
+.row2{
+	background:gray;
+}
+.row4{
+	background-color:gray;
+}
